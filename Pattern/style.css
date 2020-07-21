@@ -1,0 +1,15 @@
+.jumbotron{
+	background-image: url(https://wallpaperaccess.com/full/400179.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	text-align: center;
+}
+.main{
+	background: 
+	background-color:rgba(242, 244, 247,.3);
+}
+.my-4{
+	width: 30%;
+	color: rgb(242, 244, 247);
+}
